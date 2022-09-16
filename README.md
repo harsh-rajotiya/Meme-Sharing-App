@@ -23,4 +23,4 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='250' height = '500' />
+<img src='https://github.com/harsh-rajotiya/Meme-Sharing-App/blob/main/meme-share.gif' title='Video Walkthrough' width='250' height = '500' />
